@@ -4,7 +4,7 @@ public class Test1004 {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		int[] a=new int[55];
-		;
+		//;
 		a[0]=0;
 		a[1]=1;
 		a[2]=2;
