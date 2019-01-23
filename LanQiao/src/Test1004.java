@@ -4,7 +4,11 @@ public class Test1004 {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		int[] a=new int[55];
+<<<<<<< HEAD
 		//123;
+=======
+		//;
+>>>>>>> branch 'master' of https://github.com/doctorwang2/eclipsework.git
 		a[0]=0;
 		a[1]=1;
 		a[2]=2;
